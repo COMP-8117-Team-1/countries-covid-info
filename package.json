@@ -8,7 +8,7 @@
     "npm": "6.7.0"
   },
   "scripts": {
-      "start": "node index.js",
+      "start": "node app.js",
       "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "https://gitlab.cs.uwindsor.ca/comp8117_team_1/countries-covid-data-api/",
