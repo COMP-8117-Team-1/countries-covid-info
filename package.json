@@ -1,0 +1,25 @@
+{
+  "name": "countries-covid-info",
+  "version": "1.0.0",
+  "description": "Allow users to search for a country and retrieves the countries information and covid data for the day using the REST countries API and Covid API.",
+  "main": "app.js",
+  "engines": {
+    "node": "11.10.0",
+    "npm": "6.7.0"
+  },
+  "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://gitlab.cs.uwindsor.ca/comp8117_team_1/countries-covid-data-api/",
+  "author": "COMP 8117 Team 1",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "convert-hrtime": "^3.0.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  }
+}
