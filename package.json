@@ -4,12 +4,13 @@
   "description": "Allow users to search for a country and retrieves the countries information and covid data for the day using the REST countries API and Covid API.",
   "main": "app.js",
   "engines": {
-    "node": "11.10.0",
-    "npm": "6.7.0"
+    "node": "14.15.1",
+    "npm": "6.14.8"
   },
   "scripts": {
-      "start": "node app.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
   },
   "repository": "https://gitlab.cs.uwindsor.ca/comp8117_team_1/countries-covid-data-api/",
   "author": "COMP 8117 Team 1",
@@ -21,5 +22,8 @@
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
