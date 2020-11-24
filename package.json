@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha --timeout 10000",
     "dev": "nodemon app.js"
   },
   "repository": "https://gitlab.cs.uwindsor.ca/comp8117_team_1/countries-covid-data-api/",
@@ -24,6 +24,9 @@
     "moment": "^2.29.1"
   },
   "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.2.1",
     "nodemon": "^2.0.6"
   }
 }
