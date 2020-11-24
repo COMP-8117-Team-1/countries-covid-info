@@ -3,12 +3,125 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Countries Covid Info</title>
+    <title>Countries & Covid Info</title>
     <link type="text/css" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link type="text/css" rel="stylesheet" href="/style.css">
+    <link type="text/css" rel="stylesheet" href="/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-    <h1>Landing Page!</h1>
-    <h2>Landing page</h2>
+    <header>
+        <div class="container-fluid">
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <a class="navbar-brand" href="/">Countries & Covid Info</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <div class="collapse navbar-collapse" id="navbarToggler">
+                  <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+                    <li class="nav-item">
+                      <a class="nav-link text-white" href="/about">About</a>
+                    </li>
+                  </ul>
+                </div>
+            </nav>
+        </div>
+        <div class="banner-content-area text-white text-center mt-5">
+            <h1>Countries & Covid Info!</h1>
+            <h3>Search for any country and get the country info and current covid data.</h3>
+            <a href="/app" class="btn btn-lg btn-burgundy">Try it Now!</a>
+        </div>
+    </header>
+    <main>
+        <section class="hero">
+            <div class="banner text-center">
+                <div class="color-overlay"></div>
+            </div>
+        </section>
+
+        <section class="intro">
+            <div class="container-fluid text-center">
+                <h3 class="title">What is it?</h3>
+                <div class="row">
+                    <div class="col-sm-8 offset-sm-2">
+                        <p>It's a simple application that allows our search for a country and get info about the country and its covid data.
+                            It was developed by the Team 1 of the COMP 8117 Section 2 class. Our names are shown below.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="special">
+        </section>
+
+        <section class="contributors">
+            <div class="container pb-3">
+                <h3 class="title text-center">Contributors</h3>
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
+                        <a class="card-link" target="__blank" href="https://github.com/adamichelle">
+                            <div class="card special-card-border">
+                                <div class="card-body text-center">
+                                    <i class="fa fab fa-3x fa-github"></i>
+                                    <h5 class="card-title">Aniuchi Adaobi</h5>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-3">
+                        <a class="card-link" target="__blank" href="https://github.com/HeshaS">
+                            <div class="card special-card-border">
+                                <div class="card-body text-center">
+                                    <i class="fa fab fa-3x fa-github"></i>
+                                    <h5 class="card-title">Hesha Sheth</h5>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-3">
+                        <a class="card-link" target="__blank" href="https://gitlab.cs.uwindsor.ca/vannawa">
+                            <div class="card special-card-border">
+                                <div class="card-body text-center">
+                                    <i class="fa fab fa-3x fa-gitlab"></i>
+                                    <h5 class="card-title">Mounika Vannawada</h5>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-3">
+                        <a class="card-link" target="__blank" href="https://github.com/nizarkadri">
+                            <div class="card special-card-border">
+                                <div class="card-body text-center">
+                                    <i class="fa fab fa-3x fa-github"></i>
+                                    <h5 class="card-title">Nizar Kadri</h5>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <hr class="special">
+        </section>
+        <section class="how">
+            <div class="container-fluid text-center">
+                <h3 class="title">How?</h3>
+                <div class="row">
+                    <div class="col-sm-8 offset-sm-2">
+                        <p>Visit the application <a target="__blank" href="/app">here.</a> 
+                            Enter the name of the country and click the search button. 
+                            It's that simple! So what are you waiting for?
+                        </p>
+                        <a href="/app" class="btn btn-lg btn-burgundy">Try it Now!</a>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <br>
+        </section>
+    </main>
+    <footer>
+        <p class="text-center text-burgundy">Made with &hearts; COMP8117 Team 1 &copy; 2020</p>
+    </footer>
 </body>
 </html>

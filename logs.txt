@@ -438,3 +438,248 @@
 [24/11/2020 01:11:60 PM] | GET:/style.css | Status: 200 | Request Duration: 0.0074 ms 
 [24/11/2020 01:11:31 PM] | GET:/about | Status: 304 | Request Duration: 0.0074 ms | Error Message: Not Modified
 [24/11/2020 01:11:34 PM] | GET:/style.css | Status: 304 | Request Duration: 0.005 ms | Error Message: Not Modified
+[24/11/2020 02:11:45 PM] | GET:/ | Status: 200 | Request Duration: 0.094 ms 
+[24/11/2020 02:11:48 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0042 ms 
+[24/11/2020 02:11:66 PM] | GET:/ | Status: 200 | Request Duration: 0.0044 ms 
+[24/11/2020 02:11:68 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0068 ms | Error Message: Not Modified
+[24/11/2020 02:11:57 PM] | GET:/ | Status: 200 | Request Duration: 0.0082 ms 
+[24/11/2020 02:11:60 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0069 ms | Error Message: Not Modified
+[24/11/2020 02:11:94 PM] | GET:/ | Status: 200 | Request Duration: 0.0067 ms 
+[24/11/2020 02:11:97 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0064 ms 
+[24/11/2020 02:11:21 PM] | GET:/ | Status: 304 | Request Duration: 0.0093 ms | Error Message: Not Modified
+[24/11/2020 02:11:24 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0056 ms 
+[24/11/2020 03:11:57 PM] | GET:/ | Status: 200 | Request Duration: 0.0081 ms 
+[24/11/2020 03:11:60 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0057 ms 
+[24/11/2020 03:11:03 PM] | GET:/ | Status: 304 | Request Duration: 0.0046 ms | Error Message: Not Modified
+[24/11/2020 03:11:06 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0086 ms 
+[24/11/2020 03:11:25 PM] | GET:/ | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 03:11:28 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0069 ms 
+[24/11/2020 03:11:36 PM] | GET:/ | Status: 304 | Request Duration: 0.007 ms | Error Message: Not Modified
+[24/11/2020 03:11:39 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0061 ms 
+[24/11/2020 03:11:41 PM] | GET:/images/globe.png | Status: 404 | Request Duration: 0.0043 ms | Error Message: Not Found
+[24/11/2020 03:11:18 PM] | GET:/ | Status: 304 | Request Duration: 0.0056 ms | Error Message: Not Modified
+[24/11/2020 03:11:21 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0064 ms 
+[24/11/2020 03:11:23 PM] | GET:/images/globe.jpg | Status: 200 | Request Duration: 0.0045 ms 
+[24/11/2020 03:11:07 PM] | GET:/ | Status: 304 | Request Duration: 0.0103 ms | Error Message: Not Modified
+[24/11/2020 03:11:10 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0056 ms 
+[24/11/2020 03:11:12 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0055 ms | Error Message: Not Modified
+[24/11/2020 03:11:37 PM] | GET:/ | Status: 304 | Request Duration: 0.0059 ms | Error Message: Not Modified
+[24/11/2020 03:11:39 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0074 ms | Error Message: Not Modified
+[24/11/2020 03:11:60 PM] | GET:/ | Status: 304 | Request Duration: 0.0103 ms | Error Message: Not Modified
+[24/11/2020 03:11:63 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0061 ms | Error Message: Not Modified
+[24/11/2020 03:11:81 PM] | GET:/ | Status: 304 | Request Duration: 0.0065 ms | Error Message: Not Modified
+[24/11/2020 03:11:83 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0049 ms | Error Message: Not Modified
+[24/11/2020 03:11:23 PM] | GET:/ | Status: 304 | Request Duration: 0.0059 ms | Error Message: Not Modified
+[24/11/2020 03:11:26 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0054 ms 
+[24/11/2020 03:11:28 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 03:11:91 PM] | GET:/ | Status: 200 | Request Duration: 0.0072 ms 
+[24/11/2020 03:11:94 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.005 ms | Error Message: Not Modified
+[24/11/2020 03:11:96 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0061 ms | Error Message: Not Modified
+[24/11/2020 03:11:38 PM] | GET:/ | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 03:11:41 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0128 ms 
+[24/11/2020 03:11:43 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 03:11:90 PM] | GET:/ | Status: 304 | Request Duration: 0.0067 ms | Error Message: Not Modified
+[24/11/2020 03:11:94 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0069 ms | Error Message: Not Modified
+[24/11/2020 03:11:54 PM] | GET:/ | Status: 304 | Request Duration: 0.009 ms | Error Message: Not Modified
+[24/11/2020 03:11:57 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0061 ms | Error Message: Not Modified
+[24/11/2020 03:11:94 PM] | GET:/ | Status: 304 | Request Duration: 0.005 ms | Error Message: Not Modified
+[24/11/2020 03:11:96 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 03:11:17 PM] | GET:/ | Status: 304 | Request Duration: 0.0055 ms | Error Message: Not Modified
+[24/11/2020 03:11:20 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0045 ms | Error Message: Not Modified
+[24/11/2020 03:11:15 PM] | GET:/ | Status: 200 | Request Duration: 0.0188 ms 
+[24/11/2020 03:11:17 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0068 ms 
+[24/11/2020 03:11:18 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0696 ms | Error Message: Not Modified
+[24/11/2020 03:11:19 PM] | GET:/ | Status: 200 | Request Duration: 0.0065 ms 
+[24/11/2020 03:11:27 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0076 ms 
+[24/11/2020 03:11:28 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0062 ms | Error Message: Not Modified
+[24/11/2020 03:11:90 PM] | GET:/ | Status: 200 | Request Duration: 0.0072 ms 
+[24/11/2020 03:11:92 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0043 ms | Error Message: Not Modified
+[24/11/2020 03:11:94 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0058 ms | Error Message: Not Modified
+[24/11/2020 03:11:99 PM] | GET:/ | Status: 304 | Request Duration: 0.0097 ms | Error Message: Not Modified
+[24/11/2020 03:11:02 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0047 ms | Error Message: Not Modified
+[24/11/2020 03:11:20 PM] | GET:/ | Status: 304 | Request Duration: 0.0047 ms | Error Message: Not Modified
+[24/11/2020 03:11:22 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0049 ms | Error Message: Not Modified
+[24/11/2020 03:11:47 PM] | GET:/ | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 03:11:49 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0046 ms | Error Message: Not Modified
+[24/11/2020 03:11:67 PM] | GET:/ | Status: 304 | Request Duration: 0.0068 ms | Error Message: Not Modified
+[24/11/2020 03:11:70 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0066 ms | Error Message: Not Modified
+[24/11/2020 03:11:14 PM] | GET:/ | Status: 304 | Request Duration: 0.0052 ms | Error Message: Not Modified
+[24/11/2020 03:11:16 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0042 ms | Error Message: Not Modified
+[24/11/2020 03:11:69 PM] | GET:/ | Status: 200 | Request Duration: 0.011 ms 
+[24/11/2020 03:11:71 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0049 ms | Error Message: Not Modified
+[24/11/2020 03:11:75 PM] | GET:/ | Status: 200 | Request Duration: 0.0062 ms 
+[24/11/2020 03:11:78 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0049 ms | Error Message: Not Modified
+[24/11/2020 03:11:61 PM] | GET:/ | Status: 200 | Request Duration: 0.0061 ms 
+[24/11/2020 03:11:64 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0092 ms | Error Message: Not Modified
+[24/11/2020 03:11:21 PM] | GET:/ | Status: 200 | Request Duration: 0.0064 ms 
+[24/11/2020 03:11:24 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0049 ms | Error Message: Not Modified
+[24/11/2020 03:11:50 PM] | GET:/ | Status: 200 | Request Duration: 0.005 ms 
+[24/11/2020 03:11:53 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0044 ms | Error Message: Not Modified
+[24/11/2020 03:11:34 PM] | GET:/ | Status: 200 | Request Duration: 0.0065 ms 
+[24/11/2020 03:11:36 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0063 ms | Error Message: Not Modified
+[24/11/2020 03:11:86 PM] | GET:/ | Status: 304 | Request Duration: 0.0055 ms | Error Message: Not Modified
+[24/11/2020 03:11:89 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0052 ms 
+[24/11/2020 03:11:91 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0048 ms | Error Message: Not Modified
+[24/11/2020 03:11:88 PM] | GET:/ | Status: 304 | Request Duration: 0.0081 ms | Error Message: Not Modified
+[24/11/2020 03:11:96 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0139 ms 
+[24/11/2020 03:11:99 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0189 ms | Error Message: Not Modified
+[24/11/2020 03:11:67 PM] | GET:/ | Status: 304 | Request Duration: 0.0082 ms | Error Message: Not Modified
+[24/11/2020 03:11:70 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.004 ms 
+[24/11/2020 03:11:71 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0053 ms | Error Message: Not Modified
+[24/11/2020 03:11:43 PM] | GET:/ | Status: 304 | Request Duration: 0.0049 ms | Error Message: Not Modified
+[24/11/2020 03:11:47 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0109 ms | Error Message: Not Modified
+[24/11/2020 03:11:12 PM] | GET:/ | Status: 304 | Request Duration: 0.0076 ms | Error Message: Not Modified
+[24/11/2020 03:11:15 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0061 ms 
+[24/11/2020 03:11:16 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0055 ms | Error Message: Not Modified
+[24/11/2020 03:11:53 PM] | GET:/ | Status: 200 | Request Duration: 0.0067 ms 
+[24/11/2020 03:11:55 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0043 ms 
+[24/11/2020 03:11:57 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 03:11:02 PM] | GET:/ | Status: 200 | Request Duration: 0.0065 ms 
+[24/11/2020 03:11:05 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0084 ms | Error Message: Not Modified
+[24/11/2020 03:11:07 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0854 ms | Error Message: Not Modified
+[24/11/2020 03:11:25 PM] | GET:/ | Status: 304 | Request Duration: 0.0046 ms | Error Message: Not Modified
+[24/11/2020 03:11:28 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0073 ms | Error Message: Not Modified
+[24/11/2020 03:11:59 PM] | GET:/ | Status: 304 | Request Duration: 0.0048 ms | Error Message: Not Modified
+[24/11/2020 03:11:61 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0041 ms | Error Message: Not Modified
+[24/11/2020 03:11:05 PM] | GET:/ | Status: 304 | Request Duration: 0.0167 ms | Error Message: Not Modified
+[24/11/2020 03:11:09 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.009 ms | Error Message: Not Modified
+[24/11/2020 03:11:98 PM] | GET:/ | Status: 304 | Request Duration: 0.0078 ms | Error Message: Not Modified
+[24/11/2020 03:11:01 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0435 ms | Error Message: Not Modified
+[24/11/2020 03:11:18 PM] | GET:/ | Status: 304 | Request Duration: 0.009 ms | Error Message: Not Modified
+[24/11/2020 03:11:21 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0395 ms | Error Message: Not Modified
+[24/11/2020 03:11:25 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.006 ms | Error Message: Not Modified
+[24/11/2020 03:11:20 PM] | GET:/ | Status: 200 | Request Duration: 0.0147 ms 
+[24/11/2020 03:11:23 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 03:11:09 PM] | GET:/ | Status: 200 | Request Duration: 0.007 ms 
+[24/11/2020 03:11:12 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0042 ms 
+[24/11/2020 03:11:14 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 03:11:84 PM] | GET:/ | Status: 304 | Request Duration: 0.0095 ms | Error Message: Not Modified
+[24/11/2020 03:11:86 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0052 ms | Error Message: Not Modified
+[24/11/2020 03:11:96 PM] | GET:/ | Status: 304 | Request Duration: 0.0049 ms | Error Message: Not Modified
+[24/11/2020 03:11:99 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0044 ms | Error Message: Not Modified
+[24/11/2020 03:11:11 PM] | GET:/ | Status: 304 | Request Duration: 0.0037 ms | Error Message: Not Modified
+[24/11/2020 03:11:13 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 03:11:24 PM] | GET:/ | Status: 304 | Request Duration: 0.0041 ms | Error Message: Not Modified
+[24/11/2020 03:11:26 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0112 ms | Error Message: Not Modified
+[24/11/2020 03:11:39 PM] | GET:/ | Status: 304 | Request Duration: 0.0069 ms | Error Message: Not Modified
+[24/11/2020 03:11:41 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0044 ms | Error Message: Not Modified
+[24/11/2020 03:11:11 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.006 ms | Error Message: Not Modified
+[24/11/2020 03:11:63 PM] | GET:/ | Status: 200 | Request Duration: 0.0086 ms 
+[24/11/2020 03:11:66 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0059 ms | Error Message: Not Modified
+[24/11/2020 03:11:75 PM] | GET:/ | Status: 200 | Request Duration: 0.0069 ms 
+[24/11/2020 03:11:79 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0064 ms | Error Message: Not Modified
+[24/11/2020 03:11:87 PM] | GET:/ | Status: 200 | Request Duration: 0.0068 ms 
+[24/11/2020 03:11:90 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0052 ms 
+[24/11/2020 03:11:95 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0067 ms | Error Message: Not Modified
+[24/11/2020 03:11:71 PM] | GET:/ | Status: 200 | Request Duration: 0.0044 ms 
+[24/11/2020 03:11:75 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0068 ms | Error Message: Not Modified
+[24/11/2020 03:11:76 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0056 ms | Error Message: Not Modified
+[24/11/2020 03:11:41 PM] | GET:/ | Status: 200 | Request Duration: 0.0087 ms 
+[24/11/2020 03:11:44 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0041 ms | Error Message: Not Modified
+[24/11/2020 03:11:46 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0045 ms | Error Message: Not Modified
+[24/11/2020 03:11:76 PM] | GET:/ | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 03:11:79 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0065 ms 
+[24/11/2020 03:11:81 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0042 ms | Error Message: Not Modified
+[24/11/2020 03:11:42 PM] | GET:/ | Status: 200 | Request Duration: 0.0079 ms 
+[24/11/2020 03:11:46 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0096 ms | Error Message: Not Modified
+[24/11/2020 03:11:48 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0043 ms | Error Message: Not Modified
+[24/11/2020 03:11:06 PM] | GET:/ | Status: 200 | Request Duration: 0.0061 ms 
+[24/11/2020 03:11:10 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.005 ms | Error Message: Not Modified
+[24/11/2020 03:11:12 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0058 ms | Error Message: Not Modified
+[24/11/2020 03:11:05 PM] | GET:/ | Status: 200 | Request Duration: 0.0077 ms 
+[24/11/2020 03:11:08 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0115 ms | Error Message: Not Modified
+[24/11/2020 03:11:11 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0066 ms | Error Message: Not Modified
+[24/11/2020 03:11:40 PM] | GET:/ | Status: 200 | Request Duration: 0.0066 ms 
+[24/11/2020 03:11:43 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.005 ms | Error Message: Not Modified
+[24/11/2020 03:11:45 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0047 ms | Error Message: Not Modified
+[24/11/2020 03:11:25 PM] | GET:/ | Status: 200 | Request Duration: 0.0049 ms 
+[24/11/2020 03:11:28 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0131 ms | Error Message: Not Modified
+[24/11/2020 03:11:30 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0043 ms | Error Message: Not Modified
+[24/11/2020 03:11:45 PM] | GET:/ | Status: 200 | Request Duration: 0.0054 ms 
+[24/11/2020 03:11:48 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0052 ms | Error Message: Not Modified
+[24/11/2020 03:11:50 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0059 ms | Error Message: Not Modified
+[24/11/2020 03:11:87 PM] | GET:/ | Status: 200 | Request Duration: 0.0081 ms 
+[24/11/2020 03:11:90 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0068 ms | Error Message: Not Modified
+[24/11/2020 03:11:92 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0055 ms | Error Message: Not Modified
+[24/11/2020 03:11:91 PM] | GET:/ | Status: 200 | Request Duration: 0.0049 ms 
+[24/11/2020 03:11:94 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0155 ms | Error Message: Not Modified
+[24/11/2020 03:11:97 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0052 ms | Error Message: Not Modified
+[24/11/2020 03:11:23 PM] | GET:/ | Status: 200 | Request Duration: 0.0059 ms 
+[24/11/2020 03:11:26 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0086 ms | Error Message: Not Modified
+[24/11/2020 03:11:29 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 03:11:42 PM] | GET:/ | Status: 200 | Request Duration: 0.0058 ms 
+[24/11/2020 03:11:46 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0065 ms | Error Message: Not Modified
+[24/11/2020 03:11:48 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0042 ms | Error Message: Not Modified
+[24/11/2020 03:11:08 PM] | GET:/ | Status: 200 | Request Duration: 0.0048 ms 
+[24/11/2020 03:11:11 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 03:11:13 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0039 ms | Error Message: Not Modified
+[24/11/2020 03:11:16 PM] | GET:/ | Status: 200 | Request Duration: 0.0077 ms 
+[24/11/2020 03:11:19 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0052 ms | Error Message: Not Modified
+[24/11/2020 03:11:21 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0038 ms | Error Message: Not Modified
+[24/11/2020 03:11:88 PM] | GET:/ | Status: 200 | Request Duration: 0.0067 ms 
+[24/11/2020 03:11:92 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.011 ms | Error Message: Not Modified
+[24/11/2020 03:11:94 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0047 ms | Error Message: Not Modified
+[24/11/2020 03:11:00 PM] | GET:/ | Status: 200 | Request Duration: 0.0081 ms 
+[24/11/2020 03:11:03 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0114 ms 
+[24/11/2020 03:11:05 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0053 ms | Error Message: Not Modified
+[24/11/2020 03:11:64 PM] | GET:/ | Status: 304 | Request Duration: 0.0052 ms | Error Message: Not Modified
+[24/11/2020 03:11:66 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0051 ms 
+[24/11/2020 03:11:69 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0049 ms | Error Message: Not Modified
+[24/11/2020 03:11:79 PM] | GET:/ | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 03:11:82 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.005 ms 
+[24/11/2020 03:11:84 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0041 ms | Error Message: Not Modified
+[24/11/2020 03:11:16 PM] | GET:/ | Status: 304 | Request Duration: 0.0079 ms | Error Message: Not Modified
+[24/11/2020 03:11:19 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.005 ms 
+[24/11/2020 03:11:21 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.004 ms | Error Message: Not Modified
+[24/11/2020 03:11:00 PM] | GET:/ | Status: 304 | Request Duration: 0.0055 ms | Error Message: Not Modified
+[24/11/2020 03:11:02 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.005 ms 
+[24/11/2020 03:11:05 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0045 ms | Error Message: Not Modified
+[24/11/2020 03:11:61 PM] | GET:/ | Status: 200 | Request Duration: 0.0058 ms 
+[24/11/2020 03:11:64 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.006 ms 
+[24/11/2020 03:11:66 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0095 ms | Error Message: Not Modified
+[24/11/2020 04:11:32 PM] | GET:/ | Status: 304 | Request Duration: 0.0058 ms | Error Message: Not Modified
+[24/11/2020 04:11:35 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.005 ms 
+[24/11/2020 04:11:38 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0061 ms | Error Message: Not Modified
+[24/11/2020 04:11:73 PM] | GET:/ | Status: 200 | Request Duration: 0.0077 ms 
+[24/11/2020 04:11:77 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0069 ms | Error Message: Not Modified
+[24/11/2020 04:11:79 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.004 ms | Error Message: Not Modified
+[24/11/2020 04:11:68 PM] | GET:/ | Status: 200 | Request Duration: 0.0066 ms 
+[24/11/2020 04:11:71 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.006 ms | Error Message: Not Modified
+[24/11/2020 04:11:74 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0041 ms | Error Message: Not Modified
+[24/11/2020 04:11:84 PM] | GET:/ | Status: 304 | Request Duration: 0.0074 ms | Error Message: Not Modified
+[24/11/2020 04:11:87 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0056 ms | Error Message: Not Modified
+[24/11/2020 04:11:63 PM] | GET:/ | Status: 200 | Request Duration: 0.0064 ms 
+[24/11/2020 04:11:65 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0042 ms | Error Message: Not Modified
+[24/11/2020 04:11:67 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0089 ms | Error Message: Not Modified
+[24/11/2020 04:11:66 PM] | GET:/ | Status: 200 | Request Duration: 0.0058 ms 
+[24/11/2020 04:11:68 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0055 ms | Error Message: Not Modified
+[24/11/2020 04:11:71 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0045 ms | Error Message: Not Modified
+[24/11/2020 04:11:44 PM] | GET:/ | Status: 200 | Request Duration: 0.007 ms 
+[24/11/2020 04:11:47 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.007 ms | Error Message: Not Modified
+[24/11/2020 04:11:50 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0048 ms | Error Message: Not Modified
+[24/11/2020 04:11:23 PM] | GET:/ | Status: 200 | Request Duration: 0.0055 ms 
+[24/11/2020 04:11:26 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0063 ms | Error Message: Not Modified
+[24/11/2020 04:11:28 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0042 ms | Error Message: Not Modified
+[24/11/2020 04:11:41 PM] | GET:/about | Status: 200 | Request Duration: 0.0063 ms 
+[24/11/2020 04:11:45 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0053 ms | Error Message: Not Modified
+[24/11/2020 04:11:92 PM] | GET:/ | Status: 200 | Request Duration: 0.0073 ms 
+[24/11/2020 04:11:96 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.006 ms | Error Message: Not Modified
+[24/11/2020 04:11:38 PM] | GET:/ | Status: 200 | Request Duration: 0.0111 ms 
+[24/11/2020 04:11:41 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0129 ms | Error Message: Not Modified
+[24/11/2020 04:11:47 PM] | GET:/app | Status: 200 | Request Duration: 0.0061 ms 
+[24/11/2020 04:11:50 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 05:11:48 PM] | GET:/app/search?country=Nigeria | Status: 200 | Request Duration: 0.0182 ms 
+[24/11/2020 05:11:82 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0103 ms | Error Message: Not Modified
+[24/11/2020 05:11:34 PM] | GET:/app/search?country=N | Status: 404 | Request Duration: 0.1706 ms | Error Message: Not Found
+[24/11/2020 05:11:89 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0105 ms | Error Message: Not Modified
+[24/11/2020 05:11:44 PM] | GET:/app | Status: 304 | Request Duration: 0.015 ms | Error Message: Not Modified
+[24/11/2020 05:11:48 PM] | GET:/css/style.css | Status: 200 | Request Duration: 0.0324 ms 
+[24/11/2020 05:11:39 PM] | GET:/app/baa | Status: 404 | Request Duration: 0.009 ms | Error Message: Not Found
+[24/11/2020 05:11:42 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0073 ms | Error Message: Not Modified
+[24/11/2020 05:11:97 PM] | GET:/ | Status: 200 | Request Duration: 0.006 ms 
+[24/11/2020 05:11:00 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 05:11:03 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0084 ms | Error Message: Not Modified
+[24/11/2020 05:11:99 PM] | GET:/app | Status: 304 | Request Duration: 0.0059 ms | Error Message: Not Modified
+[24/11/2020 05:11:02 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0071 ms | Error Message: Not Modified
+[24/11/2020 05:11:88 PM] | GET:/app/search?country=South+Africa | Status: 200 | Request Duration: 0.0043 ms 
+[24/11/2020 05:11:77 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
