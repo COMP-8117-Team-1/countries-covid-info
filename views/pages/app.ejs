@@ -7,6 +7,28 @@
 </head>
 <body>
     <%- include('../partials/header.ejs'); %>
+    <main>
+        <div class="app-page">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 pt-5">
+                        <div class="search-container mt-5 px-5 box-shadow-1">
+                            <div class="search-form">
+                                <form method="GET" action="/app/search">
+                                    <div class="input-group input-group-lg">
+                                        <input type="text" class="form-control" name="country" required placeholder="Enter the name of a country" aria-label="Enter the name of a country">
+                                        <div class="input-group-append">
+                                          <button class="btn btn-burgundy" type="submit">Search</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
     <%- include('../partials/footer.ejs'); %>
 </body>
 </html>

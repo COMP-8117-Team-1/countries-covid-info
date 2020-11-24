@@ -1,0 +1,51 @@
+.box-shadow {
+	-webkit-box-shadow: 0 6px 6px -6px #9B6579;
+	-moz-box-shadow: 0 6px 6px -6px #9B6579;
+	box-shadow: 0 6px 6px -6px #9B6579;
+}
+
+.box-shadow-1 {
+	-webkit-box-shadow: 5px 6px 6px -6px #D6C5CB;
+	-moz-box-shadow: 5px 6px 6px -6px #D6C5CB;
+	box-shadow: 5px 6px 6px -6px #D6C5CB;
+}
+
+.bg-burgundy {
+    background-color: #6C1134;
+}
+
+.text-burgundy {
+    color: #6C1134;
+}
+
+.app-page {
+    min-height: 100vh;
+}
+
+.btn-burgundy {
+    background-color: #6C1134;
+    color: #FFFFFF;
+}
+
+.btn-burgundy:hover {
+    background-color: #921B48;
+    color: #FFFFFF;
+}
+
+.search-container {
+    min-height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid #EFEFEF;
+    border-radius: 0.5em;
+}
+
+.info {
+    list-style: none;
+    padding: 0 5px 0 0;
+}
+
+.flex-even {
+    flex: 1;
+}

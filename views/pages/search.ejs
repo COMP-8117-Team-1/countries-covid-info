@@ -7,6 +7,63 @@
 </head>
 <body>
     <%- include('../partials/header.ejs'); %>
+
+    <main>
+        <div class="app-page">
+            <div class="container pt-5">
+                <h1><%= country %></h1>
+                <hr />
+                <div class="row mt-4">
+                    <div class="col-sm-12 col-md-5">
+                        <div class="card">
+                            <img class="card-img-top" src="<%= countryInfo.flag %>" />
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-7">
+                        <h2>Country Information</h2>
+                        <div class="d-flex flex-wrap">
+                            <ul class="info basic-info flex-even">
+                                <li><b>Native name</b>: <%= countryInfo.nativeName %></li>
+                                <li><b>Population:</b> <%= countryInfo.population %></li>
+                                <li><b>Region:</b> <%= countryInfo.region %></li>
+                                <li><b>Sub-Region:</b> <%= countryInfo.subregion %></li>
+                                <li><b>Capital:</b> <%= countryInfo.capital %></li>
+                            </ul>
+                            <ul class="info other-info flex-even">
+                                <li>
+                                    <b>Top Level Domain: </b> 
+                                    <% countryInfo.topLevelDomain.forEach(function(domain) { %>
+                                        <%= domain %>
+                                    <% }); %>
+                                </li>
+                                <li>
+                                    <b>Languages:</b>
+                                    <% countryInfo.languages.forEach(function(language) { %>
+                                        <%= language.name %>
+                                    <% }); %>
+                                </li>
+                                <li>
+                                    <b>Currencies:</b>
+                                    <% countryInfo.currencies.forEach(function(currency) { %>
+                                        <%= currency.name %> <%= currency.code %> (<%= currency.symbol %>)
+                                    <% }); %>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <h2>Covid Data</h2>
+                        <ul class="info">
+                            <li><b>Confirmed:</b> <%= countryCovidData.Confirmed %> cases</li>
+                            <li><b>Deaths:</b> <span class="text-danger"><%= countryCovidData.Deaths %></span></li>
+                            <li><b>Recovered:</b> <span class="text-success"><%= countryCovidData.Recovered %></span></li>
+                            <li><b>Active:</b> <span class="text-warning"><%= countryCovidData.Active %></span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
     <%- include('../partials/footer.ejs'); %>
 </body>
 </html>
