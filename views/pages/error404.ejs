@@ -1,1 +1,30 @@
-<h1>Eror 404 page</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countries and Covid Data</title>
+    <link rel="stylesheet" type="text/css" href="/css/style404.css" />
+</head>
+<body>
+    <section class="error-container">
+        <span class="four"><span class="screen-reader-text">4</span></span>
+        <span class="zero"><span class="screen-reader-text">0</span></span>
+        <span class="four"><span class="screen-reader-text">4</span></span>
+    </section>
+    
+    <h1>OOPS!</h1>
+
+    <% if (reason == "API Error") { %>
+        <p class="zoom-area">An error occured. Edit your search and try again. </p>
+        <div class="link-container">
+            <a href="/app" class="more-link">Return to the search form</a>
+        </div>
+    <%} else { %>
+        <p class="zoom-area">Looks like you lost your way. </p>
+        <div class="link-container">
+            <a href="/" class="more-link">Back to Safety</a>
+        </div>
+    <% } %>
+</body>
+</html>

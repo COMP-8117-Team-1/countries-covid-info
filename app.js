@@ -63,7 +63,9 @@ router.get('/search', (req, res) => {
             })
         )
         .catch(errors => {
-            res.status(404).render('pages/error404');
+            res.status(404).render('pages/error404', {
+                reason: "API Error"
+            });
         });
 });
 
@@ -75,7 +77,9 @@ app.use('/app', router);
 /**
  * Handle invalid routes
  */
-app.get('*', (req, res) => res.status(404).render('pages/error404'));
+app.get('*', (req, res) => res.status(404).render('pages/error404', {
+    reason: "Resource not found"
+}));
 const port = process.env.PORT || 5000;
 
 app.listen(port, () => {

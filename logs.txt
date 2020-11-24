@@ -383,3 +383,58 @@
 [24/11/2020 12:11:45 PM] | GET:/style.css | Status: 304 | Request Duration: 0.0046 ms | Error Message: Not Modified
 [24/11/2020 12:11:56 PM] | GET:/about | Status: 200 | Request Duration: 0.0219 ms 
 [24/11/2020 12:11:61 PM] | GET:/style.css | Status: 304 | Request Duration: 0.0065 ms | Error Message: Not Modified
+[24/11/2020 01:11:49 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.019 ms | Error Message: Not Found
+[24/11/2020 01:11:84 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0073 ms | Error Message: Not Found
+[24/11/2020 01:11:87 PM] | GET:/css/style404.css | Status: 200 | Request Duration: 0.0094 ms 
+[24/11/2020 01:11:91 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0106 ms | Error Message: Not Found
+[24/11/2020 01:11:94 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0111 ms | Error Message: Not Modified
+[24/11/2020 01:11:83 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.042 ms | Error Message: Not Found
+[24/11/2020 01:11:86 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0066 ms | Error Message: Not Modified
+[24/11/2020 01:11:88 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0093 ms | Error Message: Not Found
+[24/11/2020 01:11:91 PM] | GET:/css/style404.css | Status: 200 | Request Duration: 0.0049 ms 
+[24/11/2020 01:11:58 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0093 ms | Error Message: Not Found
+[24/11/2020 01:11:60 PM] | GET:/css/style404.css | Status: 200 | Request Duration: 0.0045 ms 
+[24/11/2020 01:11:59 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0125 ms | Error Message: Not Found
+[24/11/2020 01:11:62 PM] | GET:/css/style404.css | Status: 200 | Request Duration: 0.0041 ms 
+[24/11/2020 01:11:62 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0045 ms | Error Message: Not Found
+[24/11/2020 01:11:65 PM] | GET:/css/style404.css | Status: 200 | Request Duration: 0.0063 ms 
+[24/11/2020 01:11:26 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0056 ms | Error Message: Not Found
+[24/11/2020 01:11:30 PM] | GET:/css/style404.css | Status: 200 | Request Duration: 0.0063 ms 
+[24/11/2020 01:11:75 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0089 ms | Error Message: Not Found
+[24/11/2020 01:11:78 PM] | GET:/css/style404.css | Status: 200 | Request Duration: 0.0039 ms 
+[24/11/2020 01:11:19 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0077 ms | Error Message: Not Found
+[24/11/2020 01:11:22 PM] | GET:/css/style404.css | Status: 200 | Request Duration: 0.0045 ms 
+[24/11/2020 01:11:87 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0055 ms | Error Message: Not Found
+[24/11/2020 01:11:90 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0056 ms | Error Message: Not Modified
+[24/11/2020 01:11:40 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0056 ms | Error Message: Not Modified
+[24/11/2020 01:11:90 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0182 ms | Error Message: Not Found
+[24/11/2020 01:11:14 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.018 ms | Error Message: Not Found
+[24/11/2020 01:11:18 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0112 ms | Error Message: Not Modified
+[24/11/2020 01:11:38 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0067 ms | Error Message: Not Found
+[24/11/2020 01:11:41 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0069 ms | Error Message: Not Modified
+[24/11/2020 01:11:51 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0107 ms | Error Message: Not Found
+[24/11/2020 01:11:53 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0212 ms | Error Message: Not Modified
+[24/11/2020 01:11:00 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0186 ms | Error Message: Not Found
+[24/11/2020 01:11:03 PM] | GET:/css/style404.css | Status: 200 | Request Duration: 0.0058 ms 
+[24/11/2020 01:11:84 PM] | GET:/ | Status: 304 | Request Duration: 0.0052 ms | Error Message: Not Modified
+[24/11/2020 01:11:03 PM] | GET:/style.css | Status: 304 | Request Duration: 0.0082 ms | Error Message: Not Modified
+[24/11/2020 01:11:62 PM] | GET:/about/baa | Status: 404 | Request Duration: 0.0051 ms | Error Message: Not Found
+[24/11/2020 01:11:65 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0045 ms | Error Message: Not Modified
+[24/11/2020 01:11:07 PM] | GET:/app/search?country=South | Status: 404 | Request Duration: 0.0062 ms | Error Message: Not Found
+[24/11/2020 01:11:87 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 01:11:73 PM] | GET:/app/search | Status: 404 | Request Duration: 0.0049 ms | Error Message: Not Found
+[24/11/2020 01:11:23 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.004 ms | Error Message: Not Modified
+[24/11/2020 01:11:37 PM] | GET:/app/search | Status: 404 | Request Duration: 0.0065 ms | Error Message: Not Found
+[24/11/2020 01:11:88 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0053 ms | Error Message: Not Modified
+[24/11/2020 01:11:22 PM] | GET:/app/search | Status: 404 | Request Duration: 0.0126 ms | Error Message: Not Found
+[24/11/2020 01:11:75 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0067 ms | Error Message: Not Modified
+[24/11/2020 01:11:83 PM] | GET:/app/search?country=South | Status: 404 | Request Duration: 0.0082 ms | Error Message: Not Found
+[24/11/2020 01:11:43 PM] | GET:/css/style404.css | Status: 304 | Request Duration: 0.0038 ms | Error Message: Not Modified
+[24/11/2020 01:11:95 PM] | GET:/app | Status: 304 | Request Duration: 0.0069 ms | Error Message: Not Modified
+[24/11/2020 01:11:98 PM] | GET:/style.css | Status: 304 | Request Duration: 0.0044 ms | Error Message: Not Modified
+[24/11/2020 01:11:95 PM] | GET:/app | Status: 304 | Request Duration: 0.0045 ms | Error Message: Not Modified
+[24/11/2020 01:11:98 PM] | GET:/style.css | Status: 200 | Request Duration: 0.0041 ms 
+[24/11/2020 01:11:57 PM] | GET:/app | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 01:11:60 PM] | GET:/style.css | Status: 200 | Request Duration: 0.0074 ms 
+[24/11/2020 01:11:31 PM] | GET:/about | Status: 304 | Request Duration: 0.0074 ms | Error Message: Not Modified
+[24/11/2020 01:11:34 PM] | GET:/style.css | Status: 304 | Request Duration: 0.005 ms | Error Message: Not Modified
