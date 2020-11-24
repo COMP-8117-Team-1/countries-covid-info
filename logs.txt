@@ -683,3 +683,88 @@
 [24/11/2020 05:11:02 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0071 ms | Error Message: Not Modified
 [24/11/2020 05:11:88 PM] | GET:/app/search?country=South+Africa | Status: 200 | Request Duration: 0.0043 ms 
 [24/11/2020 05:11:77 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 05:11:93 PM] | GET:/ | Status: 304 | Request Duration: 0.0117 ms | Error Message: Not Modified
+[24/11/2020 05:11:97 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0049 ms | Error Message: Not Modified
+[24/11/2020 05:11:00 PM] | GET:/images/globe.jpg | Status: 304 | Request Duration: 0.0067 ms | Error Message: Not Modified
+[24/11/2020 05:11:70 PM] | GET:/about | Status: 200 | Request Duration: 0.0078 ms 
+[24/11/2020 05:11:73 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0055 ms | Error Message: Not Modified
+[24/11/2020 05:11:95 PM] | GET:/about | Status: 200 | Request Duration: 0.0053 ms 
+[24/11/2020 05:11:98 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0048 ms | Error Message: Not Modified
+[24/11/2020 05:11:53 PM] | GET:/about | Status: 200 | Request Duration: 0.0081 ms 
+[24/11/2020 05:11:56 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0061 ms | Error Message: Not Modified
+[24/11/2020 05:11:56 PM] | GET:/images/app-screenshot-1.png | Status: 200 | Request Duration: 0.0036 ms 
+[24/11/2020 05:11:73 PM] | GET:/about | Status: 200 | Request Duration: 0.0049 ms 
+[24/11/2020 05:11:76 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0058 ms | Error Message: Not Modified
+[24/11/2020 05:11:77 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0046 ms | Error Message: Not Modified
+[24/11/2020 05:11:78 PM] | GET:/about | Status: 200 | Request Duration: 0.0068 ms 
+[24/11/2020 05:11:82 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0075 ms | Error Message: Not Modified
+[24/11/2020 05:11:82 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0044 ms | Error Message: Not Modified
+[24/11/2020 05:11:93 PM] | GET:/about | Status: 200 | Request Duration: 0.0074 ms 
+[24/11/2020 05:11:96 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0079 ms | Error Message: Not Modified
+[24/11/2020 05:11:97 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.004 ms | Error Message: Not Modified
+[24/11/2020 05:11:54 PM] | GET:/about | Status: 304 | Request Duration: 0.0075 ms | Error Message: Not Modified
+[24/11/2020 05:11:57 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0029 ms | Error Message: Not Modified
+[24/11/2020 05:11:57 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0056 ms | Error Message: Not Modified
+[24/11/2020 05:11:40 PM] | GET:/about | Status: 200 | Request Duration: 0.0087 ms 
+[24/11/2020 05:11:43 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 05:11:44 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0043 ms | Error Message: Not Modified
+[24/11/2020 05:11:86 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0071 ms | Error Message: Not Modified
+[24/11/2020 05:11:25 PM] | GET:/about | Status: 200 | Request Duration: 0.0333 ms 
+[24/11/2020 05:11:29 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 05:11:30 PM] | GET:/images/app-screenshot-2.png | Status: 200 | Request Duration: 0.0067 ms 
+[24/11/2020 05:11:31 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0064 ms | Error Message: Not Modified
+[24/11/2020 05:11:73 PM] | GET:/about | Status: 200 | Request Duration: 0.0075 ms 
+[24/11/2020 05:11:77 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 05:11:78 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 05:11:78 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.0099 ms | Error Message: Not Modified
+[24/11/2020 05:11:28 PM] | GET:/about | Status: 200 | Request Duration: 0.0122 ms 
+[24/11/2020 05:11:31 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0068 ms | Error Message: Not Modified
+[24/11/2020 05:11:32 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0058 ms | Error Message: Not Modified
+[24/11/2020 05:11:33 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 05:11:00 PM] | GET:/about | Status: 200 | Request Duration: 0.0103 ms 
+[24/11/2020 05:11:04 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 05:11:04 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 05:11:04 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.0065 ms | Error Message: Not Modified
+[24/11/2020 05:11:32 PM] | GET:/about | Status: 200 | Request Duration: 0.0086 ms 
+[24/11/2020 05:11:35 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0103 ms | Error Message: Not Modified
+[24/11/2020 05:11:36 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 05:11:37 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.005 ms | Error Message: Not Modified
+[24/11/2020 05:11:15 PM] | GET:/about | Status: 200 | Request Duration: 0.01 ms 
+[24/11/2020 05:11:25 PM] | GET:/images/app-screenshot-3.png | Status: 404 | Request Duration: 0.008 ms | Error Message: Not Found
+[24/11/2020 05:11:26 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.0039 ms | Error Message: Not Modified
+[24/11/2020 05:11:25 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0056 ms | Error Message: Not Modified
+[24/11/2020 05:11:26 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0037 ms | Error Message: Not Modified
+[24/11/2020 05:11:52 PM] | GET:/app | Status: 200 | Request Duration: 0.0039 ms 
+[24/11/2020 05:11:54 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0121 ms | Error Message: Not Modified
+[24/11/2020 05:11:29 PM] | GET:/app/search?country=Nigeria | Status: 200 | Request Duration: 0.0067 ms 
+[24/11/2020 05:11:54 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 05:11:77 PM] | GET:/about | Status: 200 | Request Duration: 0.0087 ms 
+[24/11/2020 05:11:80 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0046 ms | Error Message: Not Modified
+[24/11/2020 05:11:80 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 05:11:81 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 05:11:81 PM] | GET:/images/app-screenshot-3.png | Status: 200 | Request Duration: 0.0061 ms 
+[24/11/2020 05:11:30 PM] | GET:/about | Status: 200 | Request Duration: 0.0069 ms 
+[24/11/2020 05:11:32 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0041 ms | Error Message: Not Modified
+[24/11/2020 05:11:33 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.0044 ms | Error Message: Not Modified
+[24/11/2020 05:11:33 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 05:11:33 PM] | GET:/images/app-screenshot-3.png | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 05:11:79 PM] | GET:/about | Status: 200 | Request Duration: 0.0075 ms 
+[24/11/2020 05:11:83 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 05:11:83 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0059 ms | Error Message: Not Modified
+[24/11/2020 05:11:83 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.0058 ms | Error Message: Not Modified
+[24/11/2020 05:11:83 PM] | GET:/images/app-screenshot-3.png | Status: 304 | Request Duration: 0.0054 ms | Error Message: Not Modified
+[24/11/2020 05:11:89 PM] | GET:/about | Status: 200 | Request Duration: 0.0058 ms 
+[24/11/2020 05:11:92 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0179 ms | Error Message: Not Modified
+[24/11/2020 05:11:92 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0052 ms | Error Message: Not Modified
+[24/11/2020 05:11:92 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.0051 ms | Error Message: Not Modified
+[24/11/2020 05:11:92 PM] | GET:/images/app-screenshot-3.png | Status: 304 | Request Duration: 0.0046 ms | Error Message: Not Modified
+[24/11/2020 05:11:68 PM] | GET:/about | Status: 200 | Request Duration: 0.0105 ms 
+[24/11/2020 05:11:71 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 05:11:71 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0058 ms | Error Message: Not Modified
+[24/11/2020 05:11:72 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.0052 ms | Error Message: Not Modified
+[24/11/2020 05:11:72 PM] | GET:/images/app-screenshot-3.png | Status: 304 | Request Duration: 0.0049 ms | Error Message: Not Modified
+[24/11/2020 05:11:99 PM] | GET:/about | Status: 200 | Request Duration: 0.0069 ms 
+[24/11/2020 05:11:02 PM] | GET:/css/style.css | Status: 304 | Request Duration: 0.0787 ms | Error Message: Not Modified
+[24/11/2020 05:11:02 PM] | GET:/images/app-screenshot-1.png | Status: 304 | Request Duration: 0.0057 ms | Error Message: Not Modified
+[24/11/2020 05:11:03 PM] | GET:/images/app-screenshot-2.png | Status: 304 | Request Duration: 0.0093 ms | Error Message: Not Modified
+[24/11/2020 05:11:03 PM] | GET:/images/app-screenshot-3.png | Status: 304 | Request Duration: 0.0053 ms | Error Message: Not Modified

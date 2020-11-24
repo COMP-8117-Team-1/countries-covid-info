@@ -7,6 +7,59 @@
 </head>
 <body>
     <%- include('../partials/header.ejs'); %>
+    <main>
+        <section class="pt-5">
+            <div class="container-fluid text-center">
+                <h3 class="title">What is it?</h3>
+                <div class="row">
+                    <div class="col-sm-8 offset-sm-2">
+                        <p>It's a simple application that allows our search for a country and get info about the country and its covid data.
+                            It was developed by the Team 1 of the COMP 8117 Section 2 class. Find out more <a href="/">here.</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="special">
+        </section>
+
+        <section class="py-5 bg-white">
+            <div class="container text-center">
+                <h3 class="title">How to use it?</h3>
+                <div class="row">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="card">
+                            <img class="card-img-top" src="/images/app-screenshot-1.png" />
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <p class="pt-md-5">Navigate to the app <a target="__blank" href="/app">here</a>. You should see a screen like this.</p>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-sm-12 col-md-6 order-sm-2 order-md-1">
+                        <p class="pt-md-5">Type in the country you want to search for and press the <b>submit</b> button as shown.</p>
+                    </div>
+                    <div class="col-sm-12 col-md-6 order-sm-1 order-md-2">
+                        <div class="card">
+                            <img class="card-img-top" src="/images/app-screenshot-2.png" />
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row mt-5">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="card">
+                            <img class="card-img-top" src="/images/app-screenshot-3.png" />
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <p class="pt-md-5">Viola! Your response</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
     <%- include('../partials/footer.ejs'); %>
 </body>
 </html>
