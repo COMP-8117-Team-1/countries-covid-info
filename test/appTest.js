@@ -7,6 +7,9 @@ let should = chai.should();
 
 chai.use(chaiHttp);
 
+/**
+ * Test for the / route
+ */
 describe('Home', () => {
     describe('/GET /', () => {
         it('it should GET the landing page', (done) => {
@@ -33,6 +36,9 @@ describe('Home', () => {
     });
 });
 
+/**
+ * Test for the /about route
+ */
 describe('About', () => {
     describe('/GET /about', () => {
         it('it should GET the about page', (done) => {
@@ -47,6 +53,9 @@ describe('About', () => {
     });
 });
 
+/**
+ * Test for the /app route
+ */
 describe('App', () => {
     describe('/GET /app', () => {
         it('it should GET the app page with the search field', (done) => {
@@ -73,10 +82,10 @@ describe('App', () => {
     });
 });
 
+/** 
+ * Test the /search route
+*/
 describe('Search', () => {
-    /*
-    * Test the /GET route for search
-    */
     describe('/GET /app/search', () => {
         it('it should GET a html page with the data of the country', (done) => {
             chai.request(server)
