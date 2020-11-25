@@ -5,4 +5,5 @@ Allow users to search for a country and retrieves the countries information and 
 - Clone git repository
 - cd into git repository
 - run `yarn install` to install project dependencies
-- run `node app.js`to run application
+- run `yarn start`to run application
+- run `yarn run dev` to run the application in dev mode with live reload

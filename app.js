@@ -18,7 +18,9 @@ app.use(express.static('public'));
 app.use('/', express.static(path.join(__dirname + 'public')));
 
 /**
- * About route. Renders about page
+ * About route. Renders about page* 
+ * @param req
+ * @param res
  */
 app.get('/about', (req, res) => {
     res.render('pages/about');
@@ -26,6 +28,8 @@ app.get('/about', (req, res) => {
 
 /**
  * App route. Render the app page with the search form.
+ * @param req
+ * @param res
  */
 router.get('/', (req, res) => {
     res.render('pages/app')
